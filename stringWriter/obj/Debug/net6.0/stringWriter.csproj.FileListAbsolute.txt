@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\stringWriter.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\stringWriter.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\stringWriter.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\stringWriter.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\ref\stringWriter.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\bin\Debug\net6.0\stringWriter.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\ref\stringWriter.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringWriter\obj\Debug\net6.0\stringWriter.genruntimeconfig.cache

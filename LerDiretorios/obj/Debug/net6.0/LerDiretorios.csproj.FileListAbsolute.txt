@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\LerDiretorios.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\LerDiretorios.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\LerDiretorios.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\LerDiretorios.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\ref\LerDiretorios.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\bin\Debug\net6.0\LerDiretorios.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\ref\LerDiretorios.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\LerDiretorios\obj\Debug\net6.0\LerDiretorios.genruntimeconfig.cache

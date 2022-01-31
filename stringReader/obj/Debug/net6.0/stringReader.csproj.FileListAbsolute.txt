@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\stringReader.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\stringReader.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\stringReader.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\stringReader.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\ref\stringReader.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\bin\Debug\net6.0\stringReader.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\ref\stringReader.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Trabalhando com Arquivos e Streams em C#\stringReader\obj\Debug\net6.0\stringReader.genruntimeconfig.cache
